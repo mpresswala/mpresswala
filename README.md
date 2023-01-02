@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mufaddal || Muffi 
 - 👀 I’m interested in networks && python && cricket.
-- 🌱 I’m currently learning some django with a whip of jenkins.
 - 📫 How to reach me : muffizone-at-gmail-com
 
 <!---
